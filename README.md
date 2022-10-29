@@ -2,7 +2,7 @@
 # notetaker
 ## Description
     
-notetaker is program where the user name write a note and save it. The user can comeback to the site whenever they can, and the note will still be there unless a user deletes the note. The site is running on a heroku server.
+notetaker is program where the user may write a note and save it. The user can comeback to the site whenever they can, and the note will still be there unless a user deletes the note. The site is running on a heroku server.
 ## Table of Contents
 - [Contributions](#contributions) 
 - [Website_Screenshot](#Website_Screenshot)
